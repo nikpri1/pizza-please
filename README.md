@@ -1,1 +1,1 @@
-Fast-React-Pizza app
+Pizza Please app
